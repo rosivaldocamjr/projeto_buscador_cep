@@ -1,7 +1,7 @@
 # Projeto_Buscador_Cep
 Buscador de Cep feito com Reactjs e JavaScript
 
-Consumindo a API https://viacep.com.br/ws/
+Consumindo a API https://viacep.com.br
 
 ![image](https://user-images.githubusercontent.com/91435382/158077356-b7bafb62-5e7f-4304-9efa-14c81c5ce27c.png)
 
